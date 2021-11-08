@@ -59,7 +59,7 @@ $ cd aws-appsync-iot-core-realtime-example/mobile
 **Install the iOS app's Node.js and CocoaPod packages**
 
 ```
-$ npm install
+$ npm install --legacy-peer-deps
 $ cd ios
 $ pod install
 $ cd ..
