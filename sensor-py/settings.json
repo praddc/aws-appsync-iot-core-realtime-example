@@ -1,0 +1,1 @@
+{"host": "a91g4v2v018u7-ats.iot.us-west-2.amazonaws.com", "keyPath": "./certs/sensor-1636560190583-private.pem.key", "certPath": "./certs/sensor-1636560190583-certificate.pem.crt", "caPath": "./certs/AmazonRootCA1.pem", "clientId": "sensor-1636560190583", "certificateArn": "arn:aws:iot:us-west-2:957651824751:cert/b4f47718040e43785dd22612756196fc65626d7cb0c311509a142eb4d14cc090"}

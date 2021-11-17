@@ -1,0 +1,4 @@
+wheel
+smbus2
+awsiotsdk
+boto3
